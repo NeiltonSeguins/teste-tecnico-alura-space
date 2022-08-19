@@ -1,4 +1,4 @@
-#  Desafio técnico Pessoa Desenvolvedora Front-end Júnior
+#  Teste técnico Pessoa Desenvolvedora Front-end Júnior
 
 Seja bem-vindo! Este desafio foi projetado para avaliar a capacidade técnica de candidatos às nossas vagas.  Neste repositório você encontra o enunciado do desafio para a vaga de Pessoa Desenvolvedora Front-end Júnior da [Alura Space](https://www.alura.com.br/)!
 
@@ -28,12 +28,4 @@ Para se sair bem neste desafio, elaboramos um conjunto de instruções que deve 
 
 - Crie um Readme do seu projeto que contenha no mínimo um passo a passo de como rodar a aplicação.
 
-##  Avaliação
-
-Quando você finalizar a implementação, adicione o seu projeto na **vitrine do desafio**. Para colocar seu projeto na vitrine siga o seguintes passos: 
-
--   Vá na aba "Sobre" ou "About" do seu projeto no menu lateral que fica na esquerda dentro do repositório no GitHub;
--   Adicione as tags "aluraspace" e "case-react"
--   E pronto!
-
- A partir disso, conseguimos o endereço em que sua aplicação está publicada e seguimos com as avaliações necessárias.
+Desejamos uma boa sorte à todos!
