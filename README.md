@@ -28,5 +28,13 @@ Para se sair bem neste desafio, elaboramos um conjunto de instruções que deve 
 
 - Crie um Readme do seu projeto que contenha no mínimo um passo a passo de como rodar a aplicação.
 
+## Avaliação
+
+* Histórico de commits
+* Instruções de como rodar o projeto
+* Componentização e extensibilidade dos componentes Javascript
+* Organização, semântica, estrutura, legibilidade, manutenibilidade do seu código
+* Alcance dos objetivos propostos
+
 
 Desejamos uma boa sorte à todos!
