@@ -8,7 +8,7 @@ A **Alura Space** é uma empresa de pesquisa espacial que faz imagens incríveis
 
 Para ajudar o time comercial, você deve **desenvolver uma interface que exiba as fotos coletadas pelos pesquisadores**. A interface já foi criada pelo time de design da empresa e [você pode acessá-la neste link](https://www.figma.com/file/ie75A3jFzhB5mgz6aBTvxr/Alura-Space-%7C-React%3A-arquivos-est%C3%A1ticos-(Copy)?node-id=89%3A4). Ela deve seguir a referência visual disponibilizada como logo, fontes e cores da marca registrada da empresa. 
 
-[Os arquivos de imagens estão disponíveis neste link](https://drive.google.com/drive/folders/1GV5vkzgLrIwX1lnZEhmZKeLHAg3GJKzm), e para facilitar a usabilidade, crie pelo menos um filtro de imagens para a aplicação. Contudo, funcionalidades extras serão consideradas um diferencial.
+[Os arquivos de imagens estão disponíveis neste link](https://github.com/NeiltonSeguins/teste-tecnico-alura-space/archive/refs/heads/main.zip), e para facilitar a usabilidade, crie pelo menos um filtro de imagens para a aplicação. Contudo, funcionalidades extras serão consideradas um diferencial.
 
 **Exemplo:** Filtrar imagens de planetas, estrelas ou galáxias quando for digitado esses termos na barra de pesquisa.
 
