@@ -6,7 +6,7 @@ Seja bem-vindo! Este desafio foi projetado para avaliar a capacidade técnica de
 
 A **Alura Space** é uma empresa de pesquisa espacial que faz imagens incríveis do universo observável, e vem buscando novas oportunidades de negócio. Porém, o time comercial não possui nenhuma ferramenta que facilite a visualização de suas fotos por clientes em potencial.
 
-Para ajudar o time comercial, você deve **desenvolver uma interface que exiba as fotos coletadas pelos pesquisadores**. A interface já foi criada pelo time de design da empresa e [você pode acessá-la neste link](https://www.figma.com/file/ie75A3jFzhB5mgz6aBTvxr/Alura-Space-%7C-React%3A-arquivos-est%C3%A1ticos-(Copy)?node-id=89%3A4). Ela deve seguir a referência visual disponibilizada como logo, fontes e cores da marca registrada da empresa. 
+Para ajudar o time comercial, você deve **desenvolver uma interface que exiba as fotos coletadas pelos pesquisadores**. A interface já foi criada pelo time de design da empresa e [você pode acessá-la neste link](https://www.figma.com/file/Y1W8HJHKqlUdDFeWi8e4cz/Alura-Space-%7C-React%3A-arquivos-est%C3%A1ticos). Ela deve seguir a referência visual disponibilizada como logo, fontes e cores da marca registrada da empresa. 
 
 [Os arquivos de imagens estão disponíveis neste link](https://github.com/NeiltonSeguins/teste-tecnico-alura-space/archive/refs/heads/main.zip), e para facilitar a usabilidade, crie pelo menos um filtro de imagens para a aplicação. Contudo, funcionalidades extras serão consideradas um diferencial.
 
