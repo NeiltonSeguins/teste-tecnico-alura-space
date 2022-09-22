@@ -30,7 +30,6 @@ Para se sair bem neste desafio, elaboramos um conjunto de instruções que deve 
 
 ## Avaliação
 
-* Histórico de commits
 * Instruções de como rodar o projeto
 * Componentização e extensibilidade dos componentes Javascript
 * Organização, semântica, estrutura, legibilidade, manutenibilidade do seu código
